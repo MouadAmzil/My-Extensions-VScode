@@ -30,7 +30,9 @@ To make the process seamless, you'll need this handy VS Code extension:
 
 ## 📂 File Structure
 📁 my-vscode-extensions/
+
 ├── vsc-extensions.txt # List of my VS Code extensions
+
 └── README.md # Documentation & instructions
 
 # BY Amzil MOUAD
